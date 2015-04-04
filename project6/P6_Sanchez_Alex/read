@@ -1,0 +1,121 @@
+Script started on Thu 12 Mar 2015 11:06:13 PM PDT
+[1m[7m%[27m[1m[0m                                                                                ]2;alex@alex-Q500A: ~/Desktop/CS202/projects/project6]1;..ects/project6[0m[27m[24m[J[[31malex[00m@[35malex-Q500A[00m:[34m~/Desktop/CS202/projects/project6[00m]
+% [K[77C[00m[77D[?1h=../slot[?1l>
+]2;./slot]1;./slotEnter file name: symbols
+Read File
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 1
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 2
+bar 6 1 
+7 10 1 
+orange 0 0 
+cherry 1 1 
+bell 5 1 
+orange 0 0 
+orange 0 0 
+lemon 0 0 
+cherry 1 1 
+cherry 1 1 
+
+7 10 1 
+orange 0 0 
+lemon 0 0 
+cherry 1 1 
+orange 0 0 
+cherry 1 1 
+7 10 1 
+cherry 1 1 
+orange 0 0 
+bell 5 1 
+
+bell 5 1 
+cherry 1 1 
+7 10 1 
+bell 5 1 
+orange 0 0 
+7 10 1 
+orange 0 0 
+bar 6 1 
+bell 5 1 
+7 10 1 
+
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 1
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 2
+bar 6 1 
+7 10 1 
+lemon 0 0 
+cherry 1 1 
+cherry 1 1 
+orange 0 0 
+bell 5 1 
+orange 0 0 
+cherry 1 1 
+bell 5 1 
+
+bar 6 1 
+7 10 1 
+bar 6 1 
+orange 0 0 
+bell 5 1 
+orange 0 0 
+orange 0 0 
+orange 0 0 
+bar 6 1 
+lemon 0 0 
+
+bar 6 1 
+bell 5 1 
+lemon 0 0 
+lemon 0 0 
+bell 5 1 
+cherry 1 1 
+cherry 1 1 
+7 10 1 
+bar 6 1 
+cherry 1 1 
+
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 5
+
+[1m[7m%[27m[1m[0m                                                                                ]2;alex@alex-Q500A: ~/Desktop/CS202/projects/project6]1;..ects/project6[0m[27m[24m[J[[31malex[00m@[35malex-Q500A[00m:[34m~/Desktop/CS202/projects/project6[00m]
+% [K[77C[00m[77D[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Thu 12 Mar 2015 11:06:30 PM PDT

@@ -1,0 +1,61 @@
+Script started on Thu 12 Mar 2015 11:06:40 PM PDT
+[1m[7m%[27m[1m[0m                                                                                ]2;alex@alex-Q500A: ~/Desktop/CS202/projects/project6]1;..ects/project6[0m[27m[24m[J[[31malex[00m@[35malex-Q500A[00m:[34m~/Desktop/CS202/projects/project6[00m]
+% [K[77C[00m[77D[?1h=../slot[?1l>
+]2;./slot]1;./slotEnter file name: symbols
+Read File
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 3
+Enter in a reel number (1-3): 2
+Enter in a stop number (1-10): 3
+bar 6 1 
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 3
+Enter in a reel number (1-3): 1
+Enter in a stop number (1-10): 2
+bar 6 1 
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 4
+cherry 1 1 lemon 0 0 cherry 1 1 Total Bonus Value: 2
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 4
+lemon 0 0 bar 6 1 cherry 1 1 Total Bonus Value: 7
+
+Enter the number of the action you'd like to take:
+(1) Populate a new slot machine
+(2) Print the machine configuration
+(3) Pick a reel and stop number
+(4) Spin the reels
+(5) Exit program
+
+Option: 5
+
+[1m[7m%[27m[1m[0m                                                                                ]2;alex@alex-Q500A: ~/Desktop/CS202/projects/project6]1;..ects/project6[0m[27m[24m[J[[31malex[00m@[35malex-Q500A[00m:[34m~/Desktop/CS202/projects/project6[00m]
+% [K[77C[00m[77D[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Thu 12 Mar 2015 11:06:57 PM PDT
